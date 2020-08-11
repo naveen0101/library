@@ -16,8 +16,7 @@ public class LibraryUi {
     private LibraryService area; 
     public static void main(String args[])
     {
-        LibraryUi demo =new LibraryUi();
-        demo.run();
+       
     }
     @PostConstruct
     private void run() {
